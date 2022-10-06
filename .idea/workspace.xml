@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c0b582d-36a3-42ec-9e44-1eebcfae730c" name="Changes" comment="All Folders Updated">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1c0b582d-36a3-42ec-9e44-1eebcfae730c" name="Changes" comment=".gitignore Updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +33,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kodlama.io-JavaCamp\Week3\oopWithNLayeredApp" />
+      <recent name="D:\Kodlama.io-JavaCamp\Week2\oop1" />
+      <recent name="D:\Kodlama.io-JavaCamp\Week1\intro" />
       <recent name="D:\Kodlama.io-JavaCamp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Week2" />
@@ -56,8 +56,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -69,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665039019026</updated>
-      <workItem from="1665039020202" duration="984000" />
+      <workItem from="1665039020202" duration="1350000" />
     </task>
     <task id="LOCAL-00001" summary="All Folders Updated">
       <created>1665039696309</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665039696309</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".gitignore Updated">
+      <created>1665040360162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665040360162</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Folders Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Folders Updated" />
+    <MESSAGE value=".gitignore Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value=".gitignore Updated" />
   </component>
 </project>
