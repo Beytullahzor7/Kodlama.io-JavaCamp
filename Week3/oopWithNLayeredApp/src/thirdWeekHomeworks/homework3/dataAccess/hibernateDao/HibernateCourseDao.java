@@ -1,7 +1,7 @@
 package thirdWeekHomeworks.homework3.dataAccess.hibernateDao;
 
 import thirdWeekHomeworks.homework3.dataAccess.CourseDao;
-import thirdWeekHomeworks.homework2.staticDemo.model.Course;
+import thirdWeekHomeworks.homework3.model.Course;
 
 public class HibernateCourseDao implements CourseDao {
     @Override

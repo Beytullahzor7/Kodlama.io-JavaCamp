@@ -1,7 +1,7 @@
 package thirdWeekHomeworks.homework3.dataAccess.hibernateDao;
 
 import thirdWeekHomeworks.homework3.dataAccess.InstructorDao;
-import thirdWeekHomeworks.homework2.staticDemo.model.Instructor;
+import thirdWeekHomeworks.homework3.model.Instructor;
 
 public class HibernateInstructorDao implements InstructorDao {
 

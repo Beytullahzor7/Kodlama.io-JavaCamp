@@ -1,4 +1,4 @@
-package thirdWeekHomeworks.homework2.staticDemo.model;
+package thirdWeekHomeworks.homework3.model;
 
 public class Course {
 

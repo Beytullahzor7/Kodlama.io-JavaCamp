@@ -10,9 +10,9 @@ import thirdWeekHomeworks.homework3.core.logging.SmsLogger;
 import thirdWeekHomeworks.homework3.dataAccess.hibernateDao.HibernateCategoryDao;
 import thirdWeekHomeworks.homework3.dataAccess.jdbcDao.JdbcCourseDao;
 import thirdWeekHomeworks.homework3.dataAccess.jdbcDao.JdbcInstructorDao;
-import thirdWeekHomeworks.homework2.staticDemo.model.Category;
-import thirdWeekHomeworks.homework2.staticDemo.model.Course;
-import thirdWeekHomeworks.homework2.staticDemo.model.Instructor;
+import thirdWeekHomeworks.homework3.model.Category;
+import thirdWeekHomeworks.homework3.model.Course;
+import thirdWeekHomeworks.homework3.model.Instructor;
 
 import java.util.ArrayList;
 import java.util.HashSet;

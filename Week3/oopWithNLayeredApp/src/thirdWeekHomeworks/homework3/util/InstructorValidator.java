@@ -1,6 +1,6 @@
 package thirdWeekHomeworks.homework3.util;
 
-import thirdWeekHomeworks.homework2.staticDemo.model.Instructor;
+import thirdWeekHomeworks.homework3.model.Instructor;
 
 public class InstructorValidator {
 

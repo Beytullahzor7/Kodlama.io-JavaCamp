@@ -2,7 +2,7 @@ package thirdWeekHomeworks.homework3.business;
 
 import thirdWeekHomeworks.homework3.core.logging.ILogger;
 import thirdWeekHomeworks.homework3.dataAccess.InstructorDao;
-import thirdWeekHomeworks.homework2.staticDemo.model.Instructor;
+import thirdWeekHomeworks.homework3.model.Instructor;
 import thirdWeekHomeworks.homework3.util.InstructorValidator;
 
 import java.util.List;

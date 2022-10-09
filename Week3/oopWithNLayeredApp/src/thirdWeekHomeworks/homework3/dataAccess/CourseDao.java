@@ -1,6 +1,6 @@
 package thirdWeekHomeworks.homework3.dataAccess;
 
-import thirdWeekHomeworks.homework2.staticDemo.model.Course;
+import thirdWeekHomeworks.homework3.model.Course;
 
 public interface CourseDao {
 

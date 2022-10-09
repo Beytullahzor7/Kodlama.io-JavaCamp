@@ -1,7 +1,7 @@
 package thirdWeekHomeworks.homework3.dataAccess.hibernateDao;
 
 import thirdWeekHomeworks.homework3.dataAccess.CategoryDao;
-import thirdWeekHomeworks.homework2.staticDemo.model.Category;
+import thirdWeekHomeworks.homework3.model.Category;
 
 public class HibernateCategoryDao implements CategoryDao {
 
