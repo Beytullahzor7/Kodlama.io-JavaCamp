@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c0b582d-36a3-42ec-9e44-1eebcfae730c" name="Changes" comment=".gitignore Updated2">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1c0b582d-36a3-42ec-9e44-1eebcfae730c" name="Changes" comment="DENEME2">
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritance/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritance/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritance/PersonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritanceDemo/AskerKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritanceDemo/BaseKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritanceDemo/KrediUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritanceDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritanceDemo/TarimKrediManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/polymorphismDemo/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,46 +51,100 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Kodlama.io-JavaCamp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Kodlama.io-JavaCamp/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework2/inheritanceDemo&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Kodlama.io-JavaCamp\Week3\oopWithNLayeredApp\src\thirdWeekHomeworks\homework2\inheritanceDemo" />
+      <recent name="D:\Kodlama.io-JavaCamp\Week3\oopWithNLayeredApp\src\thirdWeekHomeworks\homework2" />
+      <recent name="D:\Kodlama.io-JavaCamp\Week3\oopWithNLayeredApp\src\thirdWeekHomeworks\homework2\inheritance" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Kodlama.io-JavaCamp\Week3\oopWithNLayeredApp" />
       <recent name="D:\Kodlama.io-JavaCamp\Week2\oop1" />
       <recent name="D:\Kodlama.io-JavaCamp\Week1\intro" />
       <recent name="D:\Kodlama.io-JavaCamp" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="thirdWeekHomeworks.homework2.interfaces" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Week2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Week3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.thirdWeekHomeworks.homework2.staticDemo.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Week1" />
+      <option name="MAIN_CLASS_NAME" value="thirdWeekHomeworks.homework2.abstractDemo.Main" />
+      <module name="Week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thirdWeekHomeworks.homework2.abstractDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thirdWeekHomeworks.homework2.abstractClasses.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeekHomeworks.homework2.abstractClasses.Main" />
+      <module name="Week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thirdWeekHomeworks.homework2.abstractClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thirdWeekHomeworks.homework2.interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeekHomeworks.homework2.interfaces.Main" />
+      <module name="Week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thirdWeekHomeworks.homework2.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thirdWeekHomeworks.homework2.overriding.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeekHomeworks.homework2.overriding.Main" />
+      <module name="Week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thirdWeekHomeworks.homework2.overriding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thirdWeekHomeworks.homework2.staticDemo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thirdWeekHomeworks.homework2.staticDemo.Main" />
+      <module name="Week3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thirdWeekHomeworks.homework2.staticDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.thirdWeekHomeworks.homework2.staticDemo.Main" />
+        <item itemvalue="Application.thirdWeekHomeworks.homework2.interfaces.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.thirdWeekHomeworks.homework2.abstractClasses.Main" />
+        <item itemvalue="Application.thirdWeekHomeworks.homework2.overriding.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -94,6 +160,8 @@
       <workItem from="1665041322520" duration="98000" />
       <workItem from="1665054222548" duration="36000" />
       <workItem from="1665054264944" duration="6405000" />
+      <workItem from="1665224246374" duration="3243000" />
+      <workItem from="1665311326523" duration="3565000" />
     </task>
     <task id="LOCAL-00001" summary="All Folders Updated">
       <created>1665039696309</created>
@@ -116,7 +184,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665040631461</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DENEME">
+      <created>1665152667150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665152667150</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DENEME">
+      <created>1665153133893</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665153133893</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DENEME2">
+      <created>1665153195458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665153195458</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +229,8 @@
     <MESSAGE value="All Folders Updated" />
     <MESSAGE value=".gitignore Updated" />
     <MESSAGE value=".gitignore Updated2" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitignore Updated2" />
+    <MESSAGE value="DENEME" />
+    <MESSAGE value="DENEME2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DENEME2" />
   </component>
 </project>
