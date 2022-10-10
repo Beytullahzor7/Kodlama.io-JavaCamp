@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c0b582d-36a3-42ec-9e44-1eebcfae730c" name="Changes" comment="Third Week Third Homework Completed" />
+    <list default="true" id="1c0b582d-36a3-42ec-9e44-1eebcfae730c" name="Changes" comment="Third Week Third Homework Updated">
+      <change afterPath="$PROJECT_DIR$/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework5/SqlHomework.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Kodlama.io-JavaCamp/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework3/core/logging",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Kodlama.io-JavaCamp/Week3/oopWithNLayeredApp/src/thirdWeekHomeworks/homework3/core/logging&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Kodlama.io-JavaCamp\Week3\oopWithNLayeredApp\src\thirdWeekHomeworks\homework3\core\logging" />
@@ -149,6 +152,9 @@
       <workItem from="1665054264944" duration="6405000" />
       <workItem from="1665224246374" duration="3243000" />
       <workItem from="1665311326523" duration="3565000" />
+      <workItem from="1665381055843" duration="65000" />
+      <workItem from="1665384395617" duration="3370000" />
+      <workItem from="1665392292844" duration="4121000" />
     </task>
     <task id="LOCAL-00001" summary="All Folders Updated">
       <created>1665039696309</created>
@@ -199,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665324371225</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Third Week Third Homework Updated">
+      <created>1665324579924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665324579924</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +239,7 @@
     <MESSAGE value="DENEME" />
     <MESSAGE value="DENEME2" />
     <MESSAGE value="Third Week Third Homework Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third Week Third Homework Completed" />
+    <MESSAGE value="Third Week Third Homework Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Week Third Homework Updated" />
   </component>
 </project>
